@@ -28,11 +28,10 @@ backend/
 
 frontend/
 
-document/
-
-video_demo/
-
-project_files/
+- client/ – React frontend
+- server/ – Node.js & Express backend
+- document/ – Project report (PDF)
+- video_demo/ – Project demonstration video
 
 ## Developed By
 
